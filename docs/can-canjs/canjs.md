@@ -188,6 +188,9 @@ still accept patches._
 - **[can-map-backup]** <small><%can-map-backup.package.version%></small> Save the last state
   - `npm install can-map-backup --save`
   - <a class="github-button" href="https://github.com/canjs/can-map-backup" data-count-href="/canjs/can-map-backup/stargazers" data-count-api="/repos/canjs/can-map-backup#stargazers_count">Star</a>
+- **[can-model]** <small><%can-model.package.version%></small> Observable models for server data
+  - `npm install can-model --save`
+  - <a class="github-button" href="https://github.com/canjs/can-model" data-count-href="/canjs/can-model/stargazers" data-count-api="/repos/canjs/can-model#stargazers_count">Star</a>
 - **[can-ejs]** <small><%can-ejs.package.version%></small> EJS templates
   - `npm install can-ejs --save`
   - <a class="github-button" href="https://github.com/canjs/can-ejs" data-count-href="/canjs/can-ejs/stargazers" data-count-api="/repos/canjs/can-ejs#stargazers_count">Star</a>
